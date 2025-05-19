@@ -1,6 +1,6 @@
 
 import './App.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 import {Routes,Route} from 'react-router-dom'
 import DisplayNotes from './pages/DisplayNotes';
 import EditNotes from './pages/EditNotes';
